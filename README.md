@@ -6,9 +6,9 @@
 
 * compress.rb
 
-  uses a simple dictionary strinbg com,pression algorithm to enure
-  that strings only appear once (in teh dictionary) and everywhere else are referred
-  to by their index into the dictiopnary array.
+  uses a simple dictionary string compression algorithm to ensure
+  that strings only appear once (in the dictionary) and everywhere else are referred
+  to by their index into the dictionary array.
 
 * decompress.rb
 
